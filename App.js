@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Money Settings Native App</Text>
+      <Text>Designed to help the helpers</Text>
     </View>
   );
 }
